@@ -51,6 +51,15 @@ mlccdnprod.azureedge.net
 *.skype.com
 compass-ssl.microsoft.com
 
+# Copilot
+copilot.microsoft.com
+*.copilot.microsoft.com
+*.bing.com
+*.bingapis.com
+*.cloud.microsoft
+*.office.com
+
+
 # Microsoft 365 Common and Office Online
 *.officeapps.live.com
 *.online.office.com
